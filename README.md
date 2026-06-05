@@ -22,8 +22,10 @@ Technologies Used
     - Scikit-learn
     - Linear Regression
 
-Google collab notebook link : https://colab.research.google.com/drive/1tLZdbBUiqX0O3NE JH-AECBJNCmJGHsua?usp=sharing
-    
+Google collab notebook link : https://colab.research.google.com/drive/1tLZdbBUiqX0O3NEJH-AECBJNCmJGHsua?usp=sharing
+Kaggle dataset link :https://www.kaggle.com/datasets/shalmamuji/electricity-cost-prediction-dataset
+
+
 Authors :
 Harini Sri S
 Jayashre D
